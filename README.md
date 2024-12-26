@@ -14,7 +14,4 @@ Skills: JavaScript | React.js | Next.js | TypeScript
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/Zahid-sadi)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Zahid-sadi)  
 
