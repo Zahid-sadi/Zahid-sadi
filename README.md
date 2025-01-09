@@ -6,7 +6,7 @@ I'm a dedicated developer with expertise in React, Next.js, and TypeScript. I en
 
 Skills: JavaScript | React.js | Next.js | TypeScript 
 
-- 🔭 I’m currently working on Watermarkpublicatoin proeject
+- 🔭 I’m currently working on mockjup-ai proeject
 - 🌱 I’m currently learning jest 
 
 
